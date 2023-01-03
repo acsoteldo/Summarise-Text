@@ -1,6 +1,6 @@
 # Summarise Text
 
-### hw
+## hw
 Write a Python function summarise paras(f) to analyse the text found in a textfile
 named ‘f’ and to print a summary (described below) of each paragraph found in the file.
 Assume that the file exists and is in the same directory as your program.
@@ -17,4 +17,4 @@ Bringing their tails behind them.
 should produce the following summary:
 ’Little Bo-Peep has . . . them.’ has 25 words.
 For paragraphs with fewer than four words, the summary comprises all the words of the
-paragraph and the word count
+paragraph and the word count.
